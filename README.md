@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github-aditya-thakur" alt="github-aditya-thakur" /></a> </p>
 
-- 🔭 I’m currently working on [Improving my Portfolio suite using MaterialUI.](https://github-aditya-thakur.github.io/PORTFOLIO/)
+- 🔭 I’m currently working on [Improving my Portfolio suite using MaterialUI.](https://portfolio-two-inky-60.vercel.app/)
 
 - 🌱 I’m currently learning **MaterialUI, Tableau, GenAI models and revisiting DSA.**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Backend Dev, Frameworks assistance.**
 
-- 👨‍💻 All of my projects are available at [https://github-aditya-thakur.github.io/PORTFOLIO/](https://github-aditya-thakur.github.io/PORTFOLIO/)
+- 👨‍💻 All of my projects are available at [click here !](https://portfolio-two-inky-60.vercel.app/)
 
 - I am planning to paint it down my Brain thinks in any form of Blogging . So , in coming days will gonna launch my blog site. [N/A for now.](N/A for now.)
 
