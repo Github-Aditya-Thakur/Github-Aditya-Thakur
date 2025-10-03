@@ -1,25 +1,25 @@
 <h1 align="center">Hey 👋 there , I'm ADITYA THAKUR</h1>
-<h3 align="center">An aspiring Student in Data Science & Analytics from India. Currently, Pre-Final Year Student @VIT-AP.</h3>
+<h3 align="center">An aspiring Student in Data Engineering and Analysis from India. Currently, Final Year Student @ VIT-AP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github-aditya-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="github-aditya-thakur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github-aditya-thakur" alt="github-aditya-thakur" /></a> </p>
 
-- 🔭 I’m currently working on [Improving my Portfolio suite using MaterialUI.](https://portfolio-two-inky-60.vercel.app/)
+- 🔭 I’m currently working on [Grasping cloud Platforms for Data Flow](https://portfolio-two-inky-60.vercel.app/)
 
-- 🌱 I’m currently learning **MaterialUI, Tableau, GenAI models and revisiting DSA.**
+- 🌱 I’m currently learning **SnowFlakes, PySpark, Kafka and revisiting DSA.**
 
-- 👯 I’m looking to collaborate on **project including any WebDev, ApplicationDev, Tableau or any related Concepts.**
+- 👯 I’m looking to collaborate on **anything which could improve and work both ways -> learning and earning for me.**
 
-- 🤝 I’m looking for help with **Backend Dev, Frameworks assistance.**
+- 🤝 I’m looking for help with **assistance in grapping any Tech Domain Internships, to learn and shine more.**
 
-- 👨‍💻 All of my projects are available at [click here !](https://portfolio-two-inky-60.vercel.app/)
+- 👨‍💻 All of my projects are available at [Click ME !](https://portfolio-two-inky-60.vercel.app/)
 
 - I am planning to paint it down my Brain thinks in any form of Blogging . So , in coming days will gonna launch my blog site. [N/A for now.](N/A for now.)
 
-- 💬 Ask me about **ML, Data Science & Analytics, DSA.**
+- 💬 Ask me about **Data Engineering, Analytics and DSA.**
 
-- 📫 How to reach me **Insta - ig_thakuryt**
+- 📫 How to reach me **Social Links Down There**
 
 - Resume will be available after achieving the certain level of Goals , targeted by me . [N/A for now.](N/A for now.)
 
@@ -27,10 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="n/a" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="n/a" height="30" width="40" /></a>
 <a href="https://dev.to/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://twitter.com/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya thakur" height="30" width="40" /></a>
+<a href="https://twitter.com/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n/a" height="30" width="40" /></a>  -->
+<a href="https://linkedin.com/in/aditya thakur" target="blank"><img align="center" src="https://www.linkedin.com/in/oyeaditya/" alt="aditya thakur" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="n/a" height="30" width="40" /></a>
 <a href="https://codesandbox.com/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="n/a" height="30" width="40" /></a>
 <a href="https://kaggle.com/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="n/a" height="30" width="40" /></a>
