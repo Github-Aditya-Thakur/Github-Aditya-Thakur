@@ -17,14 +17,16 @@ jobs:
       - name: Generate Light Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-snake.svg?color_snake=#ff4ecd&color_dots=#e8edf2,#d9b3ff,#b66dff,#7c4dff,#4f46e5
 
       - name: Generate Dark Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake-dark.svg?palette=github-dark
+          outputs: |
+              dist/github-snake-dark.svg?color_snake=#00f5ff&color_dots=#161b22,#312e81,#6d28d9,#a855f7,#ec4899
 
       - name: Publish Snake Files
         uses: crazy-max/ghaction-github-pages@v5
